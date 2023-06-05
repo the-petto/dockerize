@@ -1,0 +1,4 @@
+{
+    "RedrivePolicy": "{\"deadLetterTargetArn\":\"arn:aws:sqs:ap-northeast-2:000000000000:TestDLQ.fifo\",\"maxReceiveCount\":\"1\"}",
+    "MessageRetentionPeriod": "259200"
+}
